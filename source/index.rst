@@ -16,18 +16,11 @@ Welcome to Final Project's documentation!
    country/artist2/index
    country/artist3/index
    country/artist4/index
-<<<<<<< HEAD
    alternative_metal/alt_metal_desc/index.rst
    alternative_metal/artist1/index.rst
    alternative_metal/artist2/index.rst
    alternative_metal/artist3/index.rst
-=======
    modern_pop_punk/brand_new/index
    modern_pop_punk/the_wonder_years/index
    modern_pop_punk/the_story_so_far/index
-<<<<<<< HEAD
-   modern_pop_punk/index
->>>>>>> a746238bafeb38d0304064a9cf98a3d8849b92f8
-=======
    modern_pop_punk/index/index
->>>>>>> 12a4267bf3a1cb3a19791dcfac8447d3bdeda8f7
