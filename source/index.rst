@@ -12,7 +12,7 @@ Welcome to Final Project's documentation!
   
 
 
-   country/index
-   country/country_artist2
-   country/country_artist3
-   country/country_artist4
+   country/artist1/index
+   country/artist2/index
+   country/artist3/index
+   country/artist4/index
