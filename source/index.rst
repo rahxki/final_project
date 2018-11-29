@@ -19,4 +19,4 @@ Welcome to Final Project's documentation!
    modern_pop_punk/brand_new/index
    modern_pop_punk/the_wonder_years/index
    modern_pop_punk/the_story_so_far/index
-   modern_pop_punk/index
+   modern_pop_punk/index/index
