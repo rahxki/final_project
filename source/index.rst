@@ -11,7 +11,7 @@ Welcome to Final Project's documentation!
    :caption: Contents:
   
 
-
+   country/index
    country/artist1/index
    country/artist2/index
    country/artist3/index
