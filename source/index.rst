@@ -16,3 +16,6 @@ Welcome to Final Project's documentation!
    country/artist2/index
    country/artist3/index
    country/artist4/index
+   modern_pop_punk/brand_new/index
+   modern_pop_punk/the_wonder_years/index
+   modern_pop_punk/the_story_so_far/index
