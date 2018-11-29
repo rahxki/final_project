@@ -9,8 +9,10 @@ Welcome to Final Project's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+  
 
 
-
-   sample_chapter/index
-   
+   country/index
+   country/country_artist2
+   country/country_artist3
+   country/country_artist4
