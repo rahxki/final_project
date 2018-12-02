@@ -3,7 +3,6 @@ The Wonder Years
 
 .. image:: the_wonder_years.jpeg
 	:width: 50%
-	:allign: center
 
 About
 -----
