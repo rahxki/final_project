@@ -1,8 +1,10 @@
 The Wonder Years
 ================
 
-.. image:: the_wonder_years.jpeg
+.. image:: the_wonder_years.jpg
 	:width: 50%
+
+.. _image source: https://www.flickr.com/photos/deraustinson/9180556856/
 
 About
 -----
