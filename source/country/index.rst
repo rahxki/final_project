@@ -8,3 +8,4 @@ Country Artists
    artist1/index
    artist2/index
    artist3/index
+   artist4/index
