@@ -5,6 +5,7 @@ Dating back as early as the 1970’s, pop-punk is a genre that fuses more access
 
 Bands
 -----
+
 * `Brand New`_. (*2000-Present*)
 * `The Wonder Years`_. (*2005-Present*)
 * `The Story So Far`_. (*2007-Present*)
@@ -12,3 +13,11 @@ Bands
 .. _Brand New: file:///C:/Users/Seth/Desktop/final_project/build/html/modern_pop_punk/brand_new/index.html
 .. _The Wonder Years: file:///C:/Users/Seth/Desktop/final_project/build/html/modern_pop_punk/the_wonder_years/index.html
 .. _The Story So Far: file:///C:/Users/Seth/Desktop/final_project/build/html/modern_pop_punk/the_story_so_far/index.html
+
+.. toctree::
+   :maxdepth: 2
+
+
+   brand_new/index
+   the_story_so_far/index
+   the_wonder_years/index
