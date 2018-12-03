@@ -14,11 +14,11 @@ Consisting of members Jesse Lacey, Vincent Accardi, Brian Lane, and Garrett Tier
 Top Songs
 ---------
 
-* Jesus Christ
-* The Quiet Things That No One Ever Knows
-* Jude Law and A Semester Abroad
-* Seventy Times Seven
-* Okay I Believe You, But My Tommy Gun Don't
+* **Jesus Christ**
+* **The Quiet Things That No One Ever Knows**
+* **Jude Law and A Semester Abroad**
+* **Seventy Times Seven**
+* **Okay I Believe You, But My Tommy Gun Don't**
 
 Discography
 -----------
