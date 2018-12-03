@@ -17,7 +17,4 @@ Welcome to Final Project's documentation!
    alternative_metal/artist1/index.rst
    alternative_metal/artist2/index.rst
    alternative_metal/artist3/index.rst
-   modern_pop_punk/brand_new/index
-   modern_pop_punk/the_wonder_years/index
-   modern_pop_punk/the_story_so_far/index
-   modern_pop_punk/index/index
+   modern_pop_punk/index.rst
