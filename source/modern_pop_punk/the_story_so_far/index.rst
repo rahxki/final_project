@@ -14,11 +14,11 @@ Formed in 2007 in Walnut Creek, California, The Story So Far has made a big name
 Top Songs
 ---------
 
-* Keep This Up
-* Clairvoyant
-* Heavy Gloom
-* Empty Space
-* Quicksand
+* **Keep This Up**
+* **Clairvoyant**
+* **Heavy Gloom**
+* **Empty Space**
+* **Quicksand**
 
 Discography
 -----------

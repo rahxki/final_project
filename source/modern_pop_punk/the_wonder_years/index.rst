@@ -14,11 +14,11 @@ Hailing from south Philadelphia, The Wonder Years consists of Dan Campbell, Matt
 Top Songs
 ---------
 
-* Passing Through A Screen Door
-* Came Out Swinging
-* Sister Cities
-* I Don't Like Who I Was Then
-* Melrose Diner
+* **Passing Through A Screen Door**
+* **Came Out Swinging**
+* **Sister Cities**
+* **I Don't Like Who I Was Then**
+* **Melrose Diner**
 
 Discography
 -----------
