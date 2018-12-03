@@ -34,6 +34,8 @@ Top Songs
 * Sangria  
 * Boys 'Round Here 
 
+Discography
+~~~~~~~~~~~
 ============================= =================
 **Top Albums**                 **Release Date**
 ============================= =================

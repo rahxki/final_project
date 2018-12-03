@@ -5,7 +5,7 @@ Country Artists
    :maxdepth: 2
 
 
-   artist1/index
-   artist2/index
-   artist3/index
-   artist4/index
+   blake_shelton/index
+   carrie_underwood/index
+   luke_bryan/index
+   flordia_georgia_line/index
