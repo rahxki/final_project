@@ -1,21 +1,24 @@
-Artist #3
-=========
+Luke Bryan
+==========
 
-picture here.
+.. image:: luke.jpg
+    :width: 30%
 
-About Artist #3
----------------
+About Luke Bryan
+----------------
 
 Summary about artist right here.
 
-================= =================
-Top Songs            Top Albums
-================= =================
-1. song               1. album
-2. song               2. album
-3. song               3. album
-================= =================
+=========================== ================================
+Top Songs                     Top Albums
+=========================== ================================
+1. Play It Again            1. What Makes You Country
+2. Sunrise, Sunburn, Sunset 2. Kill The Lights
+3. What Makes You Country   3. Spring Break... Checkin' Out
+4. Country Girl             4. Crash My Party
+5. Most People Are Good     5. SpringBreak... Here To Party
+=========================== ================================
 
 Sources:
 
-insert source link here.
+https://en.wikipedia.org/wiki/Luke_Bryan

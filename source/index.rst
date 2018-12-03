@@ -12,10 +12,7 @@ Welcome to Final Project's documentation!
   
 
    country/index
-   country/artist1/index
-   country/artist2/index
-   country/artist3/index
-   country/artist4/index
+      
    alternative_metal/alt_metal_desc/index.rst
    alternative_metal/artist1/index.rst
    alternative_metal/artist2/index.rst
