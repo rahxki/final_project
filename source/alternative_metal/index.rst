@@ -1,11 +1,3 @@
-.. toctree::
-   :maxdepth: 2
-
-
-   artist1/index
-   artist2/index
-   artist3/index
-
 Alternative Metal
 =========================
 
@@ -25,5 +17,13 @@ In the current era alternative metal is being used by bands who are unintentiona
 who are still classified as alternative metal because of some missing elements. Even more the term alternative metal is
 about as meaningfull as alternative rock.
 
-Above are three bands who are examples of Alternative Metal or had performed one alternative metal song in their career. 
+Below are three bands who are examples of Alternative Metal or had performed one alternative metal song in their career. 
 They may not be considered Alternative Metal currently but at one point in time they were an Alternative Metal band.
+
+.. toctree::
+   :maxdepth: 2
+
+
+   artist1/index
+   artist2/index
+   artist3/index
