@@ -42,5 +42,5 @@ Discography
 *Based on a True Story*           2013
 ============================= =================
 
-Click `here <https://en.wikipedia.org/wiki/Blake_Shelton>`_ for more 
-information and where this information and picture was found.
+Click `here <https://en.wikipedia.org/wiki/Blake_Shelton>`_ to go to 
+Wikipedia for more information and where this information and picture was found.

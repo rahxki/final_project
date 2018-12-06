@@ -48,5 +48,5 @@ Discography
 *Here's To The Good Times*                         2012
 ================================================ ==================
 
-Click `here <https://en.wikipedia.org/wiki/Florida_Georgia_Line>`_ for 
-more information or where this information and image was found.
+Click `here <https://en.wikipedia.org/wiki/Florida_Georgia_Line>`_ to go to
+Wikipedia for more information or where this information and image was found.

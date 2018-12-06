@@ -45,5 +45,6 @@ Discography
 *Carnival Ride*           2007
 ==================== =================
 
-Click `here <https://en.wikipedia.org/wiki/Carrie_Underwood>`_ for more 
-information or where this information and image was found.
+Click `here <https://en.wikipedia.org/wiki/Carrie_Underwood>`_ to go to 
+Wikipedia for more information or to find where this information and image 
+were found.

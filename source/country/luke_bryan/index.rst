@@ -49,5 +49,5 @@ Discography
 *Tailgates and Tanlines*            2011
 ================================ ==================
 
-Click `here <https://en.wikipedia.org/wiki/Luke_Bryan>`_ for more 
-information and where this information and image was found.
+Click `here <https://en.wikipedia.org/wiki/Luke_Bryan>`_ to go to Wikipedia 
+for more information and where this information and image was found.
