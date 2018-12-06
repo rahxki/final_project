@@ -18,11 +18,11 @@ The duo then came into the country music world in 2012 with
 their debut single, *Cruise*, which is well known by people all over the
 world. It easily broke top charts because of its popularity. 
 
-Since this single, Florida Georgia Line has been a hit among country artists 
+Since this single, Florida Georgia Line has been a hit among country artists
 and created their name among the country stars. The duo has created 4 albums
-since the release of their first single with the newest one being released
-in 2016 called *Dig Your Roots*. Currently, in 2018, their top song
-is *Meant To Be* with *Simple* close behind. 
+since the release of their first single with the newest one being released in
+2016 called *Dig Your Roots*. Currently, in 2018, their top song is *Meant To
+Be* with *Simple* close behind.
 
 To listen to this country icon, check out country radio stations,
 Pandora, Spotify, and other music applications to be able to hear their

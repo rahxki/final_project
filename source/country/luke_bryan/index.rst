@@ -7,10 +7,10 @@ Luke Bryan
 About
 -----
 
-Luke Bryan is an American country singer and songwriter that didn't begin
-his career in the singing industry. He began by writing songs for multiple
-other music stars such as Travis Tritt and Billy Currington before he began
-his own singing career. 
+Luke Bryan is an American country singer and songwriter who didn't begin his
+career as an artist in the industry. He began by writing songs for multiple
+other music stars such as Travis Tritt and Billy Currington before he began his
+own singing career.
 
 His first single that was successful was called *All My Friends Say* which 
 was a part of his first album in 2007 called *I'll Stay Me*. From there he has
